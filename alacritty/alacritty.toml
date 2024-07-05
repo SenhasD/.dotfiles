@@ -1,0 +1,46 @@
+[font]
+size = 10.0
+
+[font.bold]
+family = "Hack"
+style = "Bold"
+
+[font.bold_italic]
+family = "Hack"
+style = "Bold Italic"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.italic]
+family = "Hack"
+style = "Italic"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+[env]
+TERM = "xterm-256color"
+
+# Colors (Doom One)
+
+# Default colors
+[colors.primary]
+background = '#282c34'
+foreground = '#bbc2cf'
+
+# Normal colors
+[colors.normal]
+black   = '#282c34'
+red     = '#ff6c6b'
+green   = '#98be65'
+yellow  = '#ecbe7b'
+blue    = '#51afef'
+magenta = '#c678dd'
+cyan    = '#46d9ff'
+white   = '#bbc2cf'
